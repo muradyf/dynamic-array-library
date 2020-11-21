@@ -1,0 +1,8 @@
+﻿  DynamicArray.cpp
+D:\UCP\Semester 3\OOP\Assignment_02 (Dynamic Array Library)\DynamicArray_Library\DynamicArray_Library\DynamicArray.cpp(538,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\UCP\Semester 3\OOP\Assignment_02 (Dynamic Array Library)\DynamicArray_Library\DynamicArray_Library\DynamicArray.cpp(540,71): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\UCP\Semester 3\OOP\Assignment_02 (Dynamic Array Library)\DynamicArray_Library\DynamicArray_Library\DynamicArray.cpp(920,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DynamicArrayChar.cpp
+  Source.cpp
+  Generating Code...
+  DynamicArray_Library.vcxproj -> D:\UCP\Semester 3\OOP\Assignment_02 (Dynamic Array Library)\DynamicArray_Library\Debug\DynamicArray_Library.exe
