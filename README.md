@@ -1,2 +1,2 @@
-# dynamic-array-library
-A data structures implemented as a library using C++ that features a commonly found structure, i.e., dynamic arrays.
+# Dynamic Array Library
+A data structures library implemented in C++ that features a commonly found structure, i.e., dynamic arrays. The library has been designed so that the data structures are independent of any C++ standard or third-party library.
